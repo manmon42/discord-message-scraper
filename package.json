@@ -1,0 +1,10 @@
+{
+  "name": "discord-message-scraper",
+  "version": "1.0.0",
+  "description": "utility for scraping discord messages",
+  "main": "index.ts",
+  "repository": "https://github.com/manmon42/discord-message-scraper",
+  "author": "Max Starr <manmon42@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
